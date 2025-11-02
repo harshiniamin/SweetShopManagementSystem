@@ -1,1 +1,1 @@
-# SweetShopMnagementSystem
+# SweetShopManagementSystem
